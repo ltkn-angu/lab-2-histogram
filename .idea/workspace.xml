@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120cbb4f-ff0e-4876-90a0-e014a7624488" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Histogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beispiel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateiErstellen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Schreiben.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beispiel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
